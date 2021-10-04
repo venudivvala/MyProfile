@@ -1,0 +1,72 @@
+Implementation Activities :
+
+Joining tables and loading into final table using PIPELINSE
+Load from file to table
+Load from table to table
+Implement incremental load
+Implement full load
+Implement truncate & load 
+Implement CDC
+Implement a job with various components
+Implement a job to create a performance issue
+Implement a job to load a job to ADLS
+Logic Apps + ADF
+ 
+
+Concepts you need to know :
+
+• SQL - Inner , OUter , Full OUTER , CROSS , HAVING VS WHERE CLAUSE
+
+• TYPES OF LOAD - INCR , FULL , CDC , TRUNCATE AND LOAD ETC 
+
+• ADF Components , Pipelines , How do you monitor ?
+
+• Previous project brief with role and work done in project
+
+• Activities in ADF with pipeline explanation
+
+• Any experience in Azure Logic apps,Azure Databricks, Synapse
+
+• ADF Dataflow activities
+
+• Source and Target systems of the previous project
+
+• Any situation where i got stuck during development and how i overcame
+
+• Query Optimization in SQL any knowledge
+
+• Rating myself in SQL from 1 to 10
+
+• Onprem to azure data movement step by step
+
+• Security at lake and database with respect to user
+
+• Incremental load
+
+• Some of the azure activities functionality
+
+• Describe last project.
+
+• Few questions were related to design of last project which was used for streaming and powerbi.
+
+• Different sources used in azure data factory and project.
+
+• What was the flow of adf pipeline in project.
+
+• Devops process used.
+
+• How streaming was implemented.
+
+• How different views were provided to users.
+
+• Data Flow
+
+• Target is Azure SQL DWH
+
+• Data Modelling -
+
+• Fact or DIM ? Fact will have more number of records
+
+o Fact is numeric
+
+o Dim is discrptirve
