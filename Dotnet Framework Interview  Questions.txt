@@ -1,0 +1,45 @@
+Depenancy Injection
+shallow and deepcopy
+How to trigger flow from another flow
+Have you worked on Localization?
+What is the large object heap?
+How the genarations works? how the garbage collector knows when to move where what to look for where
+Suppose i have an assembly called A.dll Version 1.0, i created another version of A.dll version 2.0 can i register both the dll in GAC
+What do mean by strong name assembly?
+Any .net DLL can i register in the GAC?
+There is an requirement to share the dll between multiple application, How do you acheive that?
+How we can make application threadsafe?
+What are the differences between the Azure Storage Queue and the Azure Service Bus Queue?
+What are the commands to setup SharePoint Framework?
+What is the difference between Azure Blob Storage and Azure Data Lake Storage Gen2?
+What is "asynchronous" and "synchronous" in programming?
+How to do Internal Testing in C#/ASP.NET framework
+What are Property Accessors?
+Difference between ASP.NET Framework, ASP.NET Core and ASP.NET MVC
+Difference between LINQ and SQL when it comes to ASP.NET
+Explain the garbage collection process?
+When to use ASP.NET Core and ASP.NET MVC?
+How to handle pagination in C# (ASP.NET Framework)?
+What is the difference between JavaScript Object and JSON Object?
+What is IN type parameter in C#? How does it differ from OUT and REF type parameter in C#?
+What do you mean by the 'Weak Encapsulation' and 'Strong Encapsulation' in OOPS?
+Why extends is known as evil in any Object-Oriented Programming Language?
+Why appsettings keys (in web.config) are not case sensitive ?
+what is a Bitarray class?
+How do you implement a YouTube kind of portal using Azure and.NET platforms?
+What is main diff b/w ADO.NET and Entity Freamwork?
+Differentiate ExecuteNonQuery and ExecuteSclar and give the example for both?
+What is Entity Framework and Benefit of Entity Framework?
+What is ADO .NET and what is difference between ADO and ADO.NET?
+What do you know about ADO.NET’s objects and methods?
+Stored Procedure returns data from multiple tables. How to access it in your ASP.Net code?
+How to make infinite timeout in Connection String?
+How to load schema in ADO.Net?
+What is differance b/w Dataview and Datatable?
+What are good ADO.NET object(s) to replace the ADO Recordset object?
+How can you provide an alternating color scheme in a Repeater control?
+Why is ADO.NET serialization slower than ADO ?
+What is typed dataset
+What DataReader class do in ADO.NET ?
+Define different execute methods of ADO.NET command object ?
+Portable executable
